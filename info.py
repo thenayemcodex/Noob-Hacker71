@@ -16,9 +16,9 @@ design="""
 
 
 logo=("""{B}
-*********************************************************
+**************************************************
 {G}\tRemember >>  •••Allah Always Watching You•••
-{B}*********************************************************
+{B}**************************************************
   {C}     ____We Work To Sarve You a Clean Cyber Space____
     {Y}      ____Well Come To Noob-Hacker's World____
 {C}	    ___We Hack to Protect Bangaladedh___
@@ -28,13 +28,13 @@ logo=("""{B}
 {C}		   ___We Do Not Forget___
 {Y}		    ___We Don't Forgive___
 {C}		     ___We Are Legion___
-{B}*********************************************************
+{B}**************************************************
 {ascii}
-{B}*********************************************************
+{B}**************************************************
 {G}Author   >>  Tahsan-Nayem [Noob-Hacker71]
 {Y}Facebook >>  https://facebook.com/Noob.Hacker71
 {C}Github   >>  https://githun.com/Noob-Hacker71
-{B}*********************************************************
+{B}**************************************************
 """.format(ascii=design,B=B,C=C,G=G,Y=Y))
 
 User="Noob-Hacker71"
