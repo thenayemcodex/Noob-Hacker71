@@ -17,7 +17,7 @@ design="""
 
 logo=("""{B}
 **************************************************
-{G}\tRemember >>  •••Allah Always Watching You•••
+{G}Remember >>  •••Allah Always Watching You•••
 {B}**************************************************
 {C} ____We Work To Sarve You a Clean Cyber Space____
 {Y}   ____Well Come To Noob-Hacker's World____
