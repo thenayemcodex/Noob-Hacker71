@@ -46,3 +46,5 @@ logo=("""{B}
 {B}*************************************************************
 """.format(ascii=design,B=B,C=C,G=G,Y=Y))
 
+User="Noob-Hacker71"
+Pwd="THBD"
