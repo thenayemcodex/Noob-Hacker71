@@ -20,10 +20,10 @@ logo=("""{B}
 {G}\tRemember >>  •••Allah Always Watching You•••
 {B}**************************************************
 {C} ____We Work To Sarve You a Clean Cyber Space____
-{Y}  ____Well Come To Noob-Hacker's World____
-{C}    ___We Hack to Protect Bangaladedh___
-{Y}	 ___ WebDo Not Hack To Impress___
-{C}        ___We   Are    Anonymouse___
+{Y}   ____Well Come To Noob-Hacker's World____
+{C}      ___We Hack to Protect Bangaladedh___
+{Y}	   ___ We Do Not Hack To Impress___
+{C}         ___We   Are    Anonymouse___
 {Y}	     ___We Hack to Express___
 {C}	      ___We Do Not Forget___
 {Y}	       ___We Don't Forgive___
@@ -33,7 +33,7 @@ logo=("""{B}
 {B}**************************************************
 {G}Author   >>  Tahsan-Nayem [Noob-Hacker71]
 {Y}Facebook >>  https://facebook.com/Noob.Hacker71
-{C}Github   >>  https://githun.com/Noob-Hacker71
+{C}Github   >>  https://github.com/Noob-Hacker71
 {B}**************************************************
 """.format(ascii=design,B=B,C=C,G=G,Y=Y))
 
