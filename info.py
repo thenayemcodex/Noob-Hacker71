@@ -12,7 +12,7 @@ design="""
 {G}║║╚╗║║╔╗║╔╗║╔╗╠{P} ══ {C}╣╔═╗║╔╗║╔═╣╚╝╣║═╣╔╝{Y}  ║╔╝║║
 {G}║║ ║║║╚╝║╚╝║╚╝╠{P} ══ {C}╣║ ║║╔╗║╚═╣╔╗╣║═╣║ {Y}  ║║╔╝╚╗
 {G}╚╝ ╚═╩══╩══╩══╝   {C} ╚╝ ╚╩╝╚╩══╩╝╚╩══╩╝ {Y}  ╚╝╚══╝
-""".format(P=P,C=C,G=G,Y=Y)
+""".format(P=P,C=C,G=G,Y=Y) to
 
 
 logo=("""{B}
@@ -22,7 +22,7 @@ logo=("""{B}
 {C} ____We Work To Sarve You a Clean Cyber Space____
 {Y}   ____Well Come To Noob-Hacker's World____
 {C}      ___We Hack to Protect Bangaladedh___
-{Y}	   ___ We Do Not Hack To Impress___
+{Y}     ___ We Do Not Hack To Impress___
 {C}         ___We   Are    Anonymouse___
 {Y}	     ___We Hack to Express___
 {C}	      ___We Do Not Forget___
@@ -39,3 +39,4 @@ logo=("""{B}
 
 User="Noob-Hacker71"
 Pwd="THBD"
+Permission="On"
