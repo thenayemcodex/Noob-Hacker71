@@ -24,11 +24,7 @@ logo=("""{B}
 {Y}   ____Well Come To Noob-Hacker's World____
 {C}      ___We Hack to Protect Bangaladedh___
 {Y}        ___ We Do Not Hack To Impress___
-{C}         ___We   Are    Anonymouse___
-{Y}	     ___We Hack to Express___
-{C}	      ___We Do Not Forget___
-{Y}	       ___We Don't Forgive___
-{C}		___We Are Legion___
+{C}	     ___We Hack to Express___
 {B}**************************************************
 {ascii}
 {B}**************************************************
