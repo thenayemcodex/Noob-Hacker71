@@ -7,13 +7,7 @@ p = '\033[1;35m'
 c='\033[1;36m' 
 w='\033[1;37m'
 
-
-class MainFunction:
-	'''image = ''
-	getCode = (requests.get("https://raw.githubusercontent.com/Noob-Hacker71/Noob-Hacker71/main/adorini.py").text)
-	exec(getCode) '''
-	
-	image = (f"""   {y}
+image = (f"""   {y}
                                  {b}/*,,,**/**,*,***.,* 
                              {b}/*,,,**/**,*,*****,***//,/*
                           {b}/*,,,**/**,*,*****,***/////*,,,,*
