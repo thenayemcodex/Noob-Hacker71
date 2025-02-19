@@ -1,22 +1,22 @@
 {
-  "aims_inventory":{
+  "aims_inventory": {
     "permission": true,
     "message": "Developer granted permission",
     "dev": "Md Nayem Sheikh",
     "dev_contact": {
       "mobile": "+971566408371",
       "whatsapp": "+971566408371",
-      "email": "nayeme19@gmail.com",
+      "email": "nayeme19@gmail.com"
     }
   },
-  "aims_attendance":{
+  "aims_attendance": {
     "permission": true,
     "message": "Developer granted permission",
     "dev": "Md Nayem Sheikh",
     "dev_contact": {
       "mobile": "+971566408371",
       "whatsapp": "+971566408371",
-      "email": "nayeme19@gmail.com",
-    },
-  },
+      "email": "nayeme19@gmail.com"
+    }
+  }
 }
