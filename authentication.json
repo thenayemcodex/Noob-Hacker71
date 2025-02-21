@@ -1,6 +1,6 @@
 {
   "aims_inventory": {
-    "permission": true,
+    "permission": false,
     "message": "Developer granted permission",
     "dev": "Md Nayem Sheikh",
     "dev_contact": {
