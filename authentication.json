@@ -9,7 +9,7 @@
       "email": "nayeme19@gmail.com"
     }
   },
-  "aims_attendance": {
+  "aims_smart_attends": {
     "permission": true,
     "message": "Developer granted permission",
     "dev": "Md Nayem Sheikh",
